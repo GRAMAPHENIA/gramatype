@@ -11,3 +11,5 @@ const HeaderKey = () => {
 };
 
 export default HeaderKey;
+
+// scroll-m-20 establece un margen de desplazamiento de 20 píxeles en todos los lados del elemento, lo cual ayuda a crear un espacio adicional alrededor de la sección cuando llegas a ella con scroll.
